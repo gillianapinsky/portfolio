@@ -173,3 +173,4 @@ tr:last-child td{border-bottom:0}
 .fig.pad .frame{padding:0}
 .thumb{background:var(--bg)}
 .card:first-child .thumb{background:var(--bg)}
+.subhead{font:800 1.35rem/1.1 var(--display);text-transform:uppercase;letter-spacing:-.01em;margin:40px 0 16px}
